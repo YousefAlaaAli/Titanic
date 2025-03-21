@@ -1,5 +1,6 @@
 # Titanic
 Overview
+
 This project analyzes Titanic passenger data to identify factors influencing survival rates. It applies machine learning techniques to predict survival based on features like age, gender, and ticket class.
 
 Key Features:
